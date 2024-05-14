@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CampusExpense Manager</string>
+    <string name="login">LOGIN</string>
+    <string name="username">Username</string>
+    <string name="enter_id">Enter Username</string>
+    <string name="password">Password</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="ok">Submit</string>
+    <string name="logout">Logout</string>
+</resources>
